@@ -11,7 +11,7 @@
 На данный момент я участвую в разработке новых и доработке существующих проектов, адаптирую их под требования и пожелания заказчиков, изучаю новые технологии и решаю задачи, связанные с улучшением интерфейсов и пользовательского опыта.
 
 ### Технологии и инструменты:  
-HTML, CSS, JavaScript, React, Redux, Webpack, Git.
+HTML, CSS, JavaScript, React, TypeScript, Redux, Webpack, Git.
 
 ### Как со мной связаться:  
 <a href="mailto:zuevamary96@gmail.com" style="text-decoration: none; color: #003366;">✉️ Написать на Email</a> | 
